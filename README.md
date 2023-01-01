@@ -1,3 +1,3 @@
 # image-expander-responsive-
 
-Simple Javascript project to exand cards 
+Simple Javascript project to expand cards 
